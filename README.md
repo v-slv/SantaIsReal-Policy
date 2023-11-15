@@ -16,5 +16,5 @@ The Application uses Unity Player Prefs to store game data such as the current l
 
 ## Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [Your Contact Information].
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at silviuioanvilcu@gmail.com
 
