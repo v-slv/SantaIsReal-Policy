@@ -1,20 +1,20 @@
-# Privacy Policy for SantaIsReal
+Introduction
 
-Last updated: 15 November 2023
+We respect the privacy of our users. This Privacy Policy explains how we collect, use, disclose, and store information when you use our game 'Santa is real', including any personal information that may be collected through third-party services such as Unity Ads.
 
-## Introduction
+No Direct Personal Data Collection
 
-We respect the privacy of our users. This Privacy Policy explains how we do not collect, use, disclose, or store any personal information about you when you use our game SantaIsReal.
+Our Application does not directly collect any personal data from its users. We do not require you to provide personal information to download or play our game.
 
-## No Personal Data Collection
+Data Storage
 
-Our Application does not collect any personal data from its users. We do not require any personal information to download or play our game.
+The Application uses Unity Player Prefs to store game state data. This data is strictly local to your device and is not transmitted to us or any third-party services, with the exception of Unity Ads as detailed below.
 
-## Data Storage
+Unity Ads
 
-The Application uses Unity Player Prefs to store game data such as the current level number on your device. This data is strictly local to your device and is not transmitted to us or any third parties.
+Our game includes Unity Ads, which may collect certain personal and non-personal information to provide personalized advertising experiences. The data collected by Unity Ads may include information such as device identifiers, or other information as per Unity's privacy policy. We do not control the data collection practices of Unity Ads. For more information, please refer to Unity’s privacy policy.
 
-## Contact Us
+Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at silviuioanvilcu@gmail.com
+If you have any questions or suggestions about our Privacy Policy, please contact us at silviuioanvilcu@gmail.com.
 
